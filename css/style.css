@@ -1,8 +1,7 @@
 body {
     padding-top: 54px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
-
 
 
 p {
@@ -12,8 +11,8 @@ p {
 
 .centered {
     text-align: center;
-
 }
+
 
 
 /* menu section */
@@ -25,7 +24,7 @@ p {
 
 /* menu section */
 #plan {
-	background-color: #f2f2f2;
+	background-color: #FFF;
 	padding-top: 35px;
 	padding-bottom: 35px;
 }
